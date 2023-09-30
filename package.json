@@ -1,0 +1,23 @@
+{
+  "name": "library_and_browser_node__node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/myx777/library_and_browser_node__node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myx777/library_and_browser_node__node/issues"
+  },
+  "homepage": "https://github.com/myx777/library_and_browser_node__node#readme",
+  "dependencies": {
+    "@myx777/library_and_brouser_node": "^1.0.1"
+  }
+}
